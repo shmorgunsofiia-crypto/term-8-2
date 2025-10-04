@@ -1,0 +1,21 @@
+.text-box h3:first-of-type {
+    color: hotpink;
+}
+
+#greycol {
+    color: grey;
+}
+
+.text-box div>p {
+    color: firebrick;
+}
+
+.text-box p:nth-of-type(3) {
+    color: darkgreen;
+}
+
+
+/*  абзац з класом "yellow" — жовтий */
+.yellow {
+    color: gold;
+}
